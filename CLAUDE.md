@@ -23,3 +23,10 @@
 - Use AI assistants for code review and improvement.
 - Understand generated code before using it.
 - Prefer simple and maintainable solutions.
+
+## Commit Rules
+
+Use Conventional Commits:
+- feat: new features
+- fix: bug fixes
+- docs: documentation changes
