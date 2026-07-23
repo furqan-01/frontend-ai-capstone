@@ -29,4 +29,4 @@
 Use Conventional Commits:
 - feat: new features
 - fix: bug fixes
-- docs: documentation changes
+- docs: documentation changesgit add .
