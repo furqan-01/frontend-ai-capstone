@@ -30,3 +30,15 @@ Use Conventional Commits:
 - feat: new features
 - fix: bug fixes
 - docs: documentation changes
+
+## Project Rules
+
+- All forms must include proper validation before submission.
+
+- Every input field must have an associated label for accessibility.
+
+- React components should be reusable and organized into separate files.
+
+- AI-generated code must be reviewed before committing.
+
+- Use semantic HTML whenever possible.
